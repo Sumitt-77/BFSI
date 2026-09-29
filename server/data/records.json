@@ -1,0 +1,19 @@
+[
+  {
+    "id": "FIN-MUMWHZAO-R7GF",
+    "timestamp": "2026-09-29T16:38:42.672Z",
+    "name": "Test Borrower",
+    "age": 32,
+    "employmentType": "Salaried",
+    "monthlyIncome": 90000,
+    "monthlyExpenses": 30000,
+    "existingEmi": 10000,
+    "creditScore": 770,
+    "loanAmount": 2000000,
+    "loanTenure": 60,
+    "estimatedEligibility": "High estimated eligibility",
+    "dti": 11,
+    "estimatedRisk": "Low to Moderate",
+    "aiSummary": "Low risk test profile."
+  }
+]
