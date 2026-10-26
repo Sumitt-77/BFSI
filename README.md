@@ -10,6 +10,9 @@
 
 > **FinAI** is a production-ready, full-stack, AI-powered BFSI financial decision-support platform that helps users analyze loan eligibility, understand credit health, calculate EMIs, evaluate financial risk, and obtain personalized financial guidance in one unified application.
 
+[![Demo Video](https://img.shields.io/badge/Demo_Video-Google_Drive-FF5722?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1oNazplMDmEHeW9vD0qp8puDXo6AYmetw)
+[![Project Documentation](https://img.shields.io/badge/Project_Document-Google_Drive-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](https://drive.google.com/drive/folders/1oNazplMDmEHeW9vD0qp8puDXo6AYmetw)
+
 ---
 
 > [!NOTE]
